@@ -44,7 +44,9 @@ Requisitos no funcionales
 4. Se deberá proteger la base de datos frente a accesos no autorizados.
 5. El diseño debe poder ampliarse en caso de añadir nuevas funciones.
 
-   Control de versiones
+Resumen del desarrollo
+
+Control de versiones
 Git y GitHub para mantener copias del proyecto, revisar cambios y almacenar versiones anteriores.
 
 IDE
