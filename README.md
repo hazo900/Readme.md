@@ -1,4 +1,4 @@
-# Readme.md
+# Proyecto Tema 2
 Planificación de un proyecto (ingeniería de software)
 Hemos elegido el modelo en v 
 Esta metodología resulta adecuada para proyectos donde los requisitos están bastante claros desde el principio y no se espera que cambien demasiado a lo largo del desarrollo. El cliente ya sabe lo que necesita y su idea es estable, por lo que no hace falta una metodología flexible como las ágiles.
@@ -22,7 +22,7 @@ Se verifica el sistema completo para comprobar que cumple con los requisitos té
   Pruebas de aceptación
 El cliente valida que el sistema cumple lo que pidió y autoriza la entrega final.
 
-Roles
+## Roles
 Si el proyecto se realiza de manera individual, una sola persona asume todos los roles: analista, diseñador, programador y probador.
 Si hubiera varios miembros, se podrían dividir en analista de requisitos, diseñador técnico, programadores y responsables de pruebas.
 
