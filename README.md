@@ -44,7 +44,7 @@ Requisitos no funcionales
 4. Se deberá proteger la base de datos frente a accesos no autorizados.
 5. El diseño debe poder ampliarse en caso de añadir nuevas funciones.
 
-Resumen del desarrollo
+Herramientas necesarias
 
 Control de versiones
 Git y GitHub para mantener copias del proyecto, revisar cambios y almacenar versiones anteriores.
@@ -71,6 +71,8 @@ Documentación: análisis y diseño.
 IDE y lenguajes: implementación.
 GitHub: durante todo el proyecto.
 Herramientas de pruebas: desde las pruebas unitarias hasta las de validación.
+
+Resumen del desarrollo
 
 El proyecto comienza con la reunión con el cliente y el análisis detallado de los requisitos. A continuación se diseña la arquitectura general del sistema y después se elabora el diseño detallado de cada módulo. Cuando toda la planificación está completa, se inicia la implementación del código, siguiendo lo planificado en el diseño.
 
